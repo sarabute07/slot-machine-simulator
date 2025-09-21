@@ -11,7 +11,7 @@ Spin reels with random symbols
 Check winnings automatically  
 Keep playing until you quit or run out of balance  
 
-The project is beginner-friendly and focuses on Python basics such as loops, functions, input validation, and the `random` module.  
+
 
 
 
